@@ -1,7 +1,6 @@
 # List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [View the English list](/free-programming-books.md)
-
 +[查看中文列表](/free-programming-books-zh.md)
 
 ## Intro
